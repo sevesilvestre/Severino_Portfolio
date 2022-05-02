@@ -22,3 +22,10 @@ Severino Silvestre's Data Analytics Portfolio
 ![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/RCluster.png)
 
 ![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/DecisionTree.png)
+
+# [Project 3: Business Analytical Plan for Rosetta Stone: Project Overview](https://github.com/sevesilvestre/BusinessAnalysisRosettaStone)
+• Developed a linear regression model and point-based rating system to identify Rosetta stone subscriber segments.
+
+• Translated performance metrics and analysis into strategic business recommendations focused on increasing profitability and identifying growth opportunities.
+
+• Built a compelling insight-driven narrative and designed concise data visualizations to communicate our findings effectively and reduce complexity.
