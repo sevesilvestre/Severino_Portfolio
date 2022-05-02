@@ -18,3 +18,7 @@ Severino Silvestre's Data Analytics Portfolio
 • Conducted K-Means clustering models with an NbClust function to determine the optimal number of distinct groups within the data set
 
 • Determined that age, BMI, average glucose levels, and history of hypertension were the most influential variables when predicting a stroke
+
+![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/RCluster.png)
+
+![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/DecisionTree.png)
