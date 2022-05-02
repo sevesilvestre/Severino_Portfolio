@@ -8,9 +8,9 @@ Severino Silvestre's Data Analytics Portfolio
 
 • Concluded that NYC AirBNB’s are influenced most by location and room type where “Entire Home” AirBNB’s in Manhattan increased the price of an AirBNB the most
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/NYCCoefficient.png)
+![](/images/NYCCoefficient.png)
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/NYCCluster.png)
+![](/images/NYCCluster.png)
 
 # [Project 2: Heart Stroke Prediction Data Science Project: Project Overview](https://github.com/sevesilvestre/StrokePredictionData)
 • Produced a logistic regression and decision tree model with an 85% accuracy rate that predicted whether a patient was going to experience a stroke based on multiple variables
@@ -19,9 +19,9 @@ Severino Silvestre's Data Analytics Portfolio
 
 • Determined that age, BMI, average glucose levels, and history of hypertension were the most influential variables when predicting a stroke
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/RCluster.png)
+![](/images/RCluster.png)
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/DecisionTree.png)
+![](/images/DecisionTree.png)
 
 # [Project 3: Business Analytical Plan for Rosetta Stone: Project Overview](https://github.com/sevesilvestre/BusinessAnalysisRosettaStone)
 • Developed a linear regression model and point-based rating system to identify Rosetta stone subscriber segments.
@@ -31,18 +31,18 @@ Severino Silvestre's Data Analytics Portfolio
 • Built a compelling insight-driven narrative and designed concise data visualizations to communicate our findings effectively and reduce complexity.
 
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/PointSystem.png)
+![](/images/PointSystem.png)
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/LinearRegression.png)
+![](/images/LinearRegression.png)
 
 # [Project 4: India Flight Visualization Analysis: Project Overview](https://github.com/sevesilvestre/IndiaFlightAnalysis)
 • Purpose: Analyze domestic flights in India over the span of 50 days to determine how the top performing airlines are positioning their business through pricing strategies based on factors such as departure time, arrival time, class, flight duration, and days before flight.
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/Flight4.png)
+![](/images/Flight4.png)
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/Flight2.png)
+![](/images/Flight2.png)
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/Flight3.png)
+![](/images/Flight3.png)
 
 
 
