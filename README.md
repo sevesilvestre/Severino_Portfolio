@@ -7,3 +7,10 @@ Severino Silvestre's Data Analytics Portfolio
 • Developed nine different models utiliizing cross validation, dimensionality reduction, and K-Modes/K-Prototype clustering to determine which variables affected NYC AirBNB prices while providing business insight on the NYC AirBNB environment
 
 • Concluded that NYC AirBNB’s are influenced most by location and room type where “Entire Home” AirBNB’s in Manhattan increased the price of an AirBNB the most
+
+# [Project 2: Heart Stroke Prediction Data Science Project: Project Overview](https://github.com/sevesilvestre/StrokePredictionData)
+• Produced a logistic regression and decision tree model with an 85% accuracy rate that predicted whether a patient was going to experience a stroke based on multiple variables
+
+• Conducted K-Means clustering models with an NbClust function to determine the optimal number of distinct groups within the data set
+
+• Determined that age, BMI, average glucose levels, and history of hypertension were the most influential variables when predicting a stroke
