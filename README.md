@@ -1,7 +1,7 @@
 # Severino_Portfolio
 Severino Silvestre's Data Analytics Portfolio
 
-# Project 1: New York AirBNB Data Science Project: Project Overview
+# [Project 1: New York AirBNB Data Science Project: Project Overview](https://github.com/sevesilvestre/NYC_AirBNB_Data)
 • Cleaned and managed a complex dataset of 50,000 data points and 16 variables to gather relevant and insightful data in Python
 
 • Developed nine different models utiliizing cross validation, dimensionality reduction, and K-Modes/K-Prototype clustering to determine which variables affected NYC AirBNB prices while providing business insight on the NYC AirBNB environment
