@@ -38,7 +38,7 @@ Severino Silvestre's Data Analytics Portfolio
 # [Project 4: India Flight Visualization Analysis: Project Overview](https://github.com/sevesilvestre/IndiaFlightAnalysis)
 • Purpose: Analyze domestic flights in India over the span of 50 days to determine how the top performing airlines are positioning their business through pricing strategies based on factors such as departure time, arrival time, class, flight duration, and days before flight.
 
-![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/Flight1.png)
+![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/Flight4.png)
 
 ![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/Flight2.png)
 
