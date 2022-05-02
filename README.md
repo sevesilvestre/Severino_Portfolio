@@ -29,3 +29,8 @@ Severino Silvestre's Data Analytics Portfolio
 • Translated performance metrics and analysis into strategic business recommendations focused on increasing profitability and identifying growth opportunities.
 
 • Built a compelling insight-driven narrative and designed concise data visualizations to communicate our findings effectively and reduce complexity.
+
+
+![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/PointSystem.png)
+
+![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/LinearRegression.png)
