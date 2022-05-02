@@ -8,6 +8,10 @@ Severino Silvestre's Data Analytics Portfolio
 
 • Concluded that NYC AirBNB’s are influenced most by location and room type where “Entire Home” AirBNB’s in Manhattan increased the price of an AirBNB the most
 
+![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/NYCCoefficient.png)
+
+![alt text](https://github.com/sevesilvestre/Severino_Portfolio/blob/main/images/NYCCluster.png)
+
 # [Project 2: Heart Stroke Prediction Data Science Project: Project Overview](https://github.com/sevesilvestre/StrokePredictionData)
 • Produced a logistic regression and decision tree model with an 85% accuracy rate that predicted whether a patient was going to experience a stroke based on multiple variables
 
