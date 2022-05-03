@@ -1,4 +1,4 @@
-# Severino_Portfolio
+# Severino_Silvestre_Portfolio
 Severino Silvestre's Data Analytics Portfolio
 
 # [Project 1: New York AirBNB Data Science Project: Project Overview](https://github.com/sevesilvestre/NYC_AirBNB_Data)
