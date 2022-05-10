@@ -48,7 +48,7 @@ Severino Silvestre's Data Analytics Portfolio
 • Built a compelling insight-driven narrative to communicate our findings effectively and reduce complexity using Tableau Story.
 
 ## Executive Summary
-![](/images/Flight4.png)
+![](/images/Flight6.png)
 
 ## Industry Analysis
 ![](/images/Flight2.png)
