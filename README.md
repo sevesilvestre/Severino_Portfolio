@@ -8,8 +8,10 @@ Severino Silvestre's Data Analytics Portfolio
 
 • Concluded that NYC AirBNB’s are influenced most by location and room type where “Entire Home” AirBNB’s in Manhattan increased the price of an AirBNB the most
 
+## NYC AirBNB Coefficient Values Chart
 ![](/images/NYCCoefficient.png)
 
+## Cluster 0 Analysis using K-Prototype
 ![](/images/NYCCluster.png)
 
 # [Project 2: Heart Stroke Prediction Data Science Project: Project Overview](https://github.com/sevesilvestre/StrokePredictionData)
@@ -19,8 +21,10 @@ Severino Silvestre's Data Analytics Portfolio
 
 • Determined that age, BMI, average glucose levels, and history of hypertension were the most influential variables when predicting a stroke
 
+## CLuster Analysis using KMeans
 ![](/images/RCluster.png)
 
+## Decision Tree Chart
 ![](/images/DecisionTree.png)
 
 # [Project 3: Business Analytical Plan for Rosetta Stone: Project Overview](https://github.com/sevesilvestre/BusinessAnalysisRosettaStone)
@@ -30,9 +34,10 @@ Severino Silvestre's Data Analytics Portfolio
 
 • Built a compelling insight-driven narrative and designed concise data visualizations to communicate our findings effectively and reduce complexity.
 
-
+## Point System Slide
 ![](/images/PointSystem.png)
 
+## Linear Regression Slide
 ![](/images/LinearRegression.png)
 
 # [Project 4: India Airline Industry Analysis: Project Overview](https://github.com/sevesilvestre/IndiaFlightAnalysis)
@@ -42,10 +47,13 @@ Severino Silvestre's Data Analytics Portfolio
 
 • Built a compelling insight-driven narrative to communicate our findings effectively and reduce complexity using Tableau Story.
 
+## Executive Summary
 ![](/images/Flight4.png)
 
+## Industry Analysis
 ![](/images/Flight2.png)
 
+## Top Performing Airline Analysis
 ![](/images/Flight3.png)
 
 
