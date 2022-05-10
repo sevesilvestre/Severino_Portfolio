@@ -21,7 +21,7 @@ Severino Silvestre's Data Analytics Portfolio
 
 • Determined that age, BMI, average glucose levels, and history of hypertension were the most influential variables when predicting a stroke
 
-## CLuster Analysis using KMeans
+## Cluster Analysis using KMeans
 ![](/images/RCluster.png)
 
 ## Decision Tree Chart
